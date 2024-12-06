@@ -35,6 +35,7 @@ public static void temp() {
 ![image](https://github.com/user-attachments/assets/540b0a0a-2278-4883-864c-d152aea82a6b)
 
 
+
 ![image](https://github.com/user-attachments/assets/8dd65826-5935-42da-8c0f-71ebb5f68b9a)
 
 مطابق شکل بالا بیشترین مصرف منابع مرتبط با حلقه تو در تو است منجر به مصرف بالای منابع شود، به ویژه برای اعداد بزرگ. 
@@ -51,3 +52,4 @@ public static void temp() {
 
 ![image](https://github.com/user-attachments/assets/844e3369-4bd5-4c6b-834b-dab2a8f5a2d8)
 
+این نکته را هم باید در نظر بگیریم که مقداری از زمان برای گرفتن ورودی از کاربر صرف میشود
