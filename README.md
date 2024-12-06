@@ -25,6 +25,7 @@ public static void temp() {
 ![alt text](https://github.com/aminhasanz/SoftLab5/blob/main/Screenshot%20(40).png?raw=true)
 
 
-اکنون قطعه کد زیر که عملیات باینری سرچ هست را برای بخش دوم اجرا میکنیم
+اکنون قطعه کد زیر که اجرای پیدا کردن اعداد اول هست را برای بخش دوم اجرا میکنیم
 
-![image](https://github.com/user-attachments/assets/8ef19694-43d7-4bf0-9cba-db4c4a15f8f3)
+![image](https://github.com/user-attachments/assets/c73544b9-6966-4fb8-b27e-c2a11217feca)
+
