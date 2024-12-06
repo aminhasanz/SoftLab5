@@ -25,8 +25,12 @@ public static void temp() {
 ![alt text](https://github.com/aminhasanz/SoftLab5/blob/main/Screenshot%20(40).png?raw=true)
 
 
-اکنون قطعه کد زیر که اجرای پیدا کردن اعداد اول هست را برای بخش دوم اجرا میکنیم
+اکنون قطعه کد زیر که اجرای پیدا کردن اعداد اول 1 تا 10000000 هست را برای بخش دوم اجرا میکنیم
 
 ![image](https://github.com/user-attachments/assets/c73544b9-6966-4fb8-b27e-c2a11217feca)
 
 در کد بالا، الگوریتم برای بررسی اینکه آیا یک عدد اول است یا نه، از یک حلقه تو در تو استفاده می‌کند که می‌تواند منجر به مصرف بالای منابع شود، به ویژه برای اعداد بزرگ. 
+نمودار اجرای برنامه و استفاده از منابع:
+
+![image](https://github.com/user-attachments/assets/540b0a0a-2278-4883-864c-d152aea82a6b)
+
