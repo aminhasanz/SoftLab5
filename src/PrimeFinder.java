@@ -4,23 +4,17 @@ import java.util.Scanner;
 
 public class PrimeFinder {
     public static List<Integer> findPrimes(int limit) {
-        boolean[] isPrime = new boolean[limit + 1];
-        for (int i = 2; i <= limit; i++) {
-            isPrime[i] = true;
-        }
-
-        for (int num = 2; num * num <= limit; num++) {
-            if (isPrime[num]) {
-                for (int multiple = num * num; multiple <= limit; multiple += num) {
-                    isPrime[multiple] = false;
+        List<Integer> primes = new ArrayList<>();
+        for (int num = 2; num <= limit; num++) {
+            boolean isPrime = true;
+            for (int i = 2; i <= Math.sqrt(num); i++) {
+                if (num % i == 0) {
+                    isPrime = false;
+                    break;
                 }
             }
-        }
-
-        List<Integer> primes = new ArrayList<>();
-        for (int i = 2; i <= limit; i++) {
-            if (isPrime[i]) {
-                primes.add(i);
+            if (isPrime) {
+                primes.add(num);
             }
         }
         return primes;
