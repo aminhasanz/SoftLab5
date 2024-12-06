@@ -43,3 +43,11 @@ public static void temp() {
 اکنون قطعه کد زیر را اجرا میکنیم:
 ![image](https://github.com/user-attachments/assets/c18d9aae-15f6-4d33-b8a0-23fe26e89d8e)
 
+
+بعد از اصلاح کد نمودار پردازش کد به این صورت میشود:
+
+![image](https://github.com/user-attachments/assets/c2eee599-c27c-46aa-9527-d215b245fa7f)
+
+
+![image](https://github.com/user-attachments/assets/844e3369-4bd5-4c6b-834b-dab2a8f5a2d8)
+
